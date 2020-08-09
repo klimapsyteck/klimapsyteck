@@ -1,7 +1,7 @@
 # Kesley Lima
 
 ## Olá pessoal 👋
-Sou apaixonado por tecnologia e seus avanços, amo resolver porblemas usando a programação :computer:.
+Sou apaixonado por tecnologia e seus avanços, amo resolver problemas usando a programação :computer:.
 <br/>Sempre atrás de novas oportunidades e conhecimentos.
 
 [![Linkedin Badge](https://img.shields.io/badge/-KesleyLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/kesley-de-lima-silva-9b248b174)](https://br.linkedin.com/in/kesley-de-lima-silva-9b248b174)
