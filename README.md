@@ -9,8 +9,7 @@ Sou apaixonado por tecnologia e seus avanços, amo resolver porblemas usando a p
 [![Twitter Badge](https://img.shields.io/badge/-@kesley_klima-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kesley_klima)](https://twitter.com/kesley_klima)
 
 :rocket:  &nbsp; Trabalhando como autônomo na área da **TI**
-<br/> :purple_heart: &nbsp; Buscando colaborar com a comunidade DEV, Front-end, Back-end, Mobilem
-<br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+<br/> :purple_heart: &nbsp; Buscando colaborar com a comunidade DEV, Front-end, Back-end, Mobile
 <br/> :computer: &nbsp; Minha stack: HTML5, CSS3, Javascript, SQL, Node.js, buscando me aperfeiçoar nessas para partir pra essas => ReactJS, React Native & Typescript
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Futebol e seriados no Netflix
 
